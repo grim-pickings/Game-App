@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321184072556",
+    "firebase_url": "https://grim-pickings-default-rtdb.firebaseio.com",
+    "project_id": "grim-pickings",
+    "storage_bucket": "grim-pickings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321184072556:android:5934c726941a453d5f2949",
+        "android_client_info": {
+          "package_name": "com.grimpickings.GameApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321184072556-fq2bc7cbqba8th9733vlb76d9qq4tjl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbA9xG1kNpzwZw6nm2rowDcsmlWB45ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321184072556-fq2bc7cbqba8th9733vlb76d9qq4tjl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
